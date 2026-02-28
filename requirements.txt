@@ -9,6 +9,9 @@ toolz
 textdistance
 scikit-learn
 
+# GPU acceleration (optional — install based on your CUDA version)
+# cupy-cuda12x
+
 # original EMBER and its requirements
 git+https://github.com/elastic/ember.git
 lief==0.9.0
